@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.AppCompat" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/wallet_holo_blue_light</item>
+        <item name="colorPrimaryDark">@color/material_blue_grey_800</item>
+
+    </style>
+
+</resources>
