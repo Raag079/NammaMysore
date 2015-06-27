@@ -12,7 +12,9 @@ App has some good animation features such as Flip view, pop-up dialog for image 
 Many places which are not found on tourism list are listed in the app along with the navigation. Also popular dining places 
 are listed to help both local people and those who come from outside.
 
-Please support by suggesting how to improve the quality of application and also by posting places and eat-outs on 
-Facebook page - Namma Mysuru (https://www.facebook.com/pages/Namma-Mysuru/856165524433354?fref=ts) 
 
-# Google Play link - https://play.google.com/store/apps/details?id=com.project.raghavendra.nammamysore 
+[![Screenshot](http://img.youtube.com/vi/c4VF_m8zvo4/0.jpg)](http://www.youtube.com/watch?v=c4VF_m8zvo4) 
+
+Click on the image to see video on YouTube. 
+
+Google Play link - https://play.google.com/store/apps/details?id=com.project.raghavendra.nammamysore 
