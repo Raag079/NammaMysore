@@ -1,3 +1,5 @@
+## I did not upload source code. Please feel free to send me request @Raghavendrahm0410@gmail.com to access my private repository of this project in bitbucket.
+
 # Mysore: Tourism,Dining,Movies
 
 Namma Mysuru gives information about the Eat-Out (hotels, mess and restaurants), places to visit in and around Mysore and 
